@@ -135,3 +135,7 @@ clang/
 gcc32/
 gcc64/
 products/
+
+# Ignore build.log
+build.log
+build.txt
